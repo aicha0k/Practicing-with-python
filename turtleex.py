@@ -23,7 +23,7 @@ def go_clockwise():
 
 def clear():
     robert.clear()
-    robert.penup()
+    robert.penup( )
     robert.home()
     
 
